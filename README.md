@@ -16,6 +16,6 @@
 
 ## Installation
 
-*Clonez le projet ,les installations necessaires sont dans le readme de chauque branche*
+*Clonez le projet ,les installations necessaires sont dans le readme de chaque branche*
 
 **Aidez-moi haha**

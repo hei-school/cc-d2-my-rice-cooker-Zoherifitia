@@ -3,9 +3,7 @@
 
 # RICE COOKER
 
-*Ce projet est un simulateur de **rice cooker***
-
-*Vous pouvez voir dans chaque branche **feature/nom du language** une version de programme codé en cette language*
+*Ce projet est un simulateur de **rice cooker** en python* 
 
 ## Fonctionnalités 
 - Allumage et extinction du rice cooker
@@ -16,6 +14,6 @@
 
 ## Installation
 
-*Clonez le projet ,les installations necessaires sont dans le readme de chaque branche*
+*Clonez le projet , ouvrez le terminale du projet et tapez **mcs cook.cs** et vous verez un fichier cook.exe generer et puis tapez **./cook.exe** *
 
 **Aidez-moi haha**

@@ -6,11 +6,10 @@
 *Ce projet est un simulateur de **rice cooker** en python*
 
 ## Fonctionnalités 
-- Allumage et extinction du rice cooker
-- Demarrage automatique si les condition sont remplies
-- Réglage de temps pour commencer le cuisson
-- Prediction du temps de cuisson
-- Maintien automatique du riz au chaud
+- Une fois le projet compiler : vous pouvez faire 3 choix : **cuire du riz** , **voir la prediction du temps de cuisson** et **quitter**
+- Il y aurra quelque instructions avant de valider la cuisson
+- Vous pouvez mettre un minuteur pour le lancement de la cuisson
+- Le riz sera maintien au chaud
 
 ## Installation
 

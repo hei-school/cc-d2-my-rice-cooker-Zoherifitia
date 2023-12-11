@@ -1,0 +1,28 @@
+{
+  "name": "cc-d2-my-rice-cooker-zoherifitia-typescript",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hei-school/cc-d2-my-rice-cooker-Zoherifitia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hei-school/cc-d2-my-rice-cooker-Zoherifitia/issues"
+  },
+  "homepage": "https://github.com/hei-school/cc-d2-my-rice-cooker-Zoherifitia#readme",
+  "dependencies": {
+    "@types/node": "^20.10.4",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
